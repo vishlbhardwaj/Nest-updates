@@ -4,11 +4,11 @@
         <title>Pastery</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sun, 21 Sep 2025 23:42:21 +0530</pubDate>
+            <pubDate>Tue, 23 Sep 2025 23:38:38 +0530</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/vishlbhardwaj/Nest-updates/releases/download/prod/Pastery.dmg" length="9271917" type="application/octet-stream" sparkle:edSignature="S0JVR+DmdWhQxRLsKvRdQmYDCChze1eIGvNaxOpm/eNwJxt8NaTLurEBC+esPMQs9YMp90fxoV43mg72c22vAg=="/>
+            <enclosure url="https://github.com/vishlbhardwaj/Nest-updates/releases/download/prod/Pastery.dmg" length="9275122" type="application/octet-stream" sparkle:edSignature="M8uKKRiE6NZtQMk81L/wEhevJFT1h15QTUDQe4q3b014dql+X/tIAZKLChBoyTnX9+ZNFSuYEQ/YAvVPF8j7Aw=="/>
         </item>
     </channel>
 </rss>
